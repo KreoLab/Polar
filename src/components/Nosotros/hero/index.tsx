@@ -23,7 +23,7 @@ function HeroNosotros() {
 
                 {/* Texto Superior (Pequeño y elegante) */}
                 <p className="text-xs md:text-sm lg:text-base uppercase tracking-[0.4em] text-white/80 font-light mb-4 md:mb-6 animate-in fade-in slide-in-from-bottom-4 duration-1000">
-                    Nuestra esencia
+                    Nuestra esencia.
                 </p>
 
                 {/* Título Principal (Grande como en la imagen) */}
@@ -33,7 +33,7 @@ function HeroNosotros() {
 
                 {/* Subtítulo Inferior */}
                 <p className="text-base md:text-xl lg:text-2xl text-stone-200 font-light tracking-wide max-w-2xl mx-auto opacity-90 animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-150">
-                    Donde la intención se transforma en emocion
+                    Donde la intención se transforma en emoción.
                 </p>
 
                 {/* Línea Decorativa */}

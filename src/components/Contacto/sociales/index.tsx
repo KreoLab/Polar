@@ -40,7 +40,7 @@ function ContactoRedesSociales() {
                 {/* CABECERA */}
                 <div className="mb-16 md:mb-20 space-y-4">
                     <span className="text-[10px] md:text-xs uppercase tracking-[0.5em] text-stone-400 font-medium">
-                        Conecta con Nosotros
+                        Conéctate con Nosotros
                     </span>
                     <h2 className="text-4xl md:text-5xl lg:text-6xl font-serif text-stone-800 leading-tight tracking-tighter max-w-2xl mx-auto">
                         Acompáñanos en <span className="italic">nuestro universo</span> botánico

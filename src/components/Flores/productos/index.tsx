@@ -23,7 +23,7 @@ function ProductosRamosUno() {
     const productos = [
         {
             id: 1,
-            nombre: "I Rosas",
+            nombre: "I Rosas.",
             descripcion: "Un ramo de 50 rosas frescas, diseñado para transmitir elegancia y sencillez en cada detalle. Ideal para un gesto sutil pero significativo.",
             precio: "$720",
             categoria: "Rosas",
@@ -32,8 +32,8 @@ function ProductosRamosUno() {
         },
         {
             id: 2,
-            nombre: "II Rosas",
-            descripcion: "Un diseño con mayor presencia, combinando rosa y lirio pensado para momentos especiales donde quieres que el detalle destaque con elegancia.",
+            nombre: "II Rosas.",
+            descripcion: "Un diseño con mayor presencia, combinando rosa y lirio, pensado para momentos especiales donde quieres que el detalle destaque con elegancia.",
             precio: "$820",
             categoria: "Rosas",
             whats: "Hola, me interesa el arreglo III — Rosas.",
@@ -41,7 +41,7 @@ function ProductosRamosUno() {
         },
         {
             id: 3,
-            nombre: "IV Rosas",
+            nombre: "IV Rosas.",
             descripcion: "Nuestra versión más especial con 100 rosas, un diseño más elaborado y un acabado premium que eleva cualquier ocasión.",
             precio: "$1,750",
             categoria: "Rosas",
@@ -50,8 +50,8 @@ function ProductosRamosUno() {
         },
         {
             id: 4,
-            nombre: "I Ranunculos",
-            descripcion: "Una de las flores más especiales",
+            nombre: "I Ranunculus.",
+            descripcion: "Una de las flores más especiales.",
             precio: "$650",
             categoria: "Ranúnculos",
             whats: "Hola, me interesa el arreglo I — Ranúnculos.",
@@ -59,7 +59,7 @@ function ProductosRamosUno() {
         },
         {
             id: 5,
-            nombre: "II Ranunculos",
+            nombre: "II Ranunculus.",
             descripcion: "Ranúnculos y gerberas en una combinación fresca y armoniosa.",
             precio: "$950",
             categoria: "Ranúnculos",
@@ -68,7 +68,7 @@ function ProductosRamosUno() {
         },
         {
             id: 6,
-            nombre: "I Lirios",
+            nombre: "I Lirios.",
             descripcion: "Lirios en composición fresca.",
             precio: "$550",
             categoria: "Lirios",
@@ -77,8 +77,8 @@ function ProductosRamosUno() {
         },
         {
             id: 7,
-            nombre: "II Lirios",
-            descripcion: "Un clasico de rosas y lirios en jarron",
+            nombre: "II Lirios.",
+            descripcion: "Un clásico de rosas y lirios en jarrón.",
             precio: "Desde $950",
             categoria: "Lirios",
             whats: "Hola, me interesa el arreglo II — Lirios.",
@@ -86,7 +86,7 @@ function ProductosRamosUno() {
         },
         {
             id: 8,
-            nombre: "I Hortensias",
+            nombre: "I Hortensias.",
             descripcion: "Hortensias premium.",
             precio: "$850",
             categoria: "Hortensias",
@@ -95,7 +95,7 @@ function ProductosRamosUno() {
         },
         {
             id: 9,
-            nombre: "II Hortensias",
+            nombre: "II Hortensias.",
             descripcion: "Versión más completa y especial.",
             precio: "$1,700",
             categoria: "Hortensias",
@@ -104,7 +104,7 @@ function ProductosRamosUno() {
         },
         {
             id: 10,
-            nombre: "I Peonias",
+            nombre: "I Peonías.",
             descripcion: "La reina de las flores.",
             precio: "$750 por pieza",
             categoria: "Peonías",
@@ -113,8 +113,8 @@ function ProductosRamosUno() {
         },
         {
             id: 11,
-            nombre: "Mixed bouquets",
-            descripcion: "Con flores frescas seleccionadas especialmente para ti",
+            nombre: "Mixed bouquets.",
+            descripcion: "Con flores frescas seleccionadas especialmente para ti.",
             precio: "Desde $450",
             categoria: "Mixed",
             whats: "Hola, me interesa un Mixed Bouquet",
@@ -122,8 +122,8 @@ function ProductosRamosUno() {
         },
         {
             id: 12,
-            nombre: "Orquideas",
-            descripcion: "Hermosas y clasicas en maceta de ceramica",
+            nombre: "Orquídeas.",
+            descripcion: "Hermosas y clásicas en maceta de cerámica.",
             precio: "Desde $650",
             categoria: "Orquídeas",
             whats: "Hola, me interesa una orquidea en ceramica",
@@ -131,8 +131,8 @@ function ProductosRamosUno() {
         },
         {
             id: 13,
-            nombre: "Arreglo mixto en ceramica",
-            descripcion: "Composicion floral mixta en una base de ceramica",
+            nombre: "Arreglo mixto en cerámica.",
+            descripcion: "Composición floral mixta en una base de cerámica.",
             precio: "Desde $950",
             categoria: "Cerámica",
             whats: "Hola, me interesa un arreglo en ceramica",
@@ -156,8 +156,8 @@ function ProductosRamosUno() {
             <div className="max-w-7xl mx-auto">
                 <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-6">
                     <div className="space-y-2">
-                        <h2 className="text-4xl md:text-5xl font-serif text-stone-800 italic">Nuestra Colección</h2>
-                        <p className="text-stone-500 font-light text-sm uppercase tracking-[0.3em]">Piezas únicas para momentos inolvidables</p>
+                        <h2 className="text-4xl md:text-5xl font-serif text-stone-800 italic">Nuestra colección</h2>
+                        <p className="text-stone-500 font-light text-sm uppercase tracking-[0.3em]">Piezas únicas para momentos inolvidables.</p>
                     </div>
                 </div>
 

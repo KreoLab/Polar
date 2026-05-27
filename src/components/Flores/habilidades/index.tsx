@@ -6,12 +6,12 @@ function habilidades() {
     const pilares = [
         {
             titulo: "Detalle",
-            descripcion: "Creemos que lo mas pequeño es lo mas importante, colocando cada elemento con precision para aportar equilibrio y sofisticacion",
+            descripcion: "Creemos que lo más pequeño es lo más importante, colocando cada elemento con precisión para aportar equilibrio y sofisticación.",
             icono: <Sparkles size={32} strokeWidth={1} className="text-[#D9BDB2]" />
         },
         {
-            titulo: "Expresion",
-            descripcion: "Nuestros arreglos comunican sin palabras conectando con quien las recibe",
+            titulo: "Expresión",
+            descripcion: "Nuestros arreglos comunican sin palabras, conectando con quien los recibe.",
             icono: <Flower2 size={32} strokeWidth={1} className="text-[#D9BDB2]" />
         },
         {
@@ -27,9 +27,9 @@ function habilidades() {
 
                     {/* CABECERA DE SECCIÓN */}
                     <div className="text-center mb-16 md:mb-24 space-y-4">
-                        <p className="text-xs uppercase tracking-[0.5em] text-stone-400 font-light">Nuestra Filosofía</p>
+                        <p className="text-xs uppercase tracking-[0.5em] text-stone-400 font-light">Nuestra filosofía.</p>
                         <h2 className="text-4xl md:text-6xl font-serif text-stone-800 tracking-tight italic">
-                            Intencion
+                            Intención
                         </h2>
                         <div className="w-12 h-[1px] bg-stone-300 mx-auto mt-6"></div>
                     </div>

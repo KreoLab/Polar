@@ -16,7 +16,7 @@ function FormularioContacto() {
                     <div className="space-y-12 md:pt-10">
                         <div className="space-y-4 text-center md:text-left">
                             <h2 className="text-4xl md:text-5xl font-serif text-stone-800 tracking-tight">
-                                Contactanos
+                                Contáctanos
                             </h2>
                             <p className="text-stone-500 font-light text-base md:text-lg max-w-md mx-auto md:mx-0">
                                 ¿Tienes una idea específica o un evento especial? Estamos listos para escucharte.

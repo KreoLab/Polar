@@ -72,10 +72,10 @@ function Footer() {
 
                 {/* SECCIÓN INFERIOR: LEGAL */}
                 <div className="pt-10 border-t border-stone-200 flex flex-col md:flex-row justify-between items-center gap-6 text-[10px] uppercase tracking-[0.2em] text-stone-400 font-medium">
-                    <p>© 2026 POLAR ATELIER. Todos los derechos reservados.</p>
+                    <p>© 2026 POLAR. Todos los derechos reservados.</p>
                     <div className="flex gap-8">
-                        <a href="#" className="hover:text-stone-800 transition-colors">Privacidad</a>
-                        <a href="#" className="hover:text-stone-800 transition-colors">Términos</a>
+                        <a href="#" className="hover:text-stone-800 transition-colors">Privacidad.</a>
+                        <a href="#" className="hover:text-stone-800 transition-colors">Términos.</a>
                     </div>
                 </div>
             </div>

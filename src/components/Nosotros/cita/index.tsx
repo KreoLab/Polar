@@ -9,12 +9,12 @@ function NosotrosCita() {
                 {/* TÍTULO */}
                 <div className="space-y-4">
                     <h2 className="text-4xl md:text-5xl lg:text-6xl font-serif text-stone-800 leading-tight tracking-tight">
-                        Comience a Crear su <br className="hidden sm:block" /> Historia
+                        Comience a crear su <br className="hidden sm:block" /> Historia
                     </h2>
 
                     {/* SUBTÍTULO */}
                     <p className="text-stone-500 font-light text-base md:text-lg lg:text-xl tracking-wide max-w-2xl mx-auto">
-                        Agende una consultoría personalizada para su próximo evento o espacio
+                        Agende una consultoría personalizada para su próximo evento o espacio.
                     </p>
                 </div>
 

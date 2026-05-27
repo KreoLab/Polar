@@ -49,7 +49,7 @@ function GaleriaHero() {
                 {/* CABECERA EDITORIAL */}
                 <div className="mb-12 md:mb-16 space-y-4">
                     <span className="text-[10px] uppercase tracking-[0.5em] text-stone-400 font-medium">
-                        Portafolio
+                        Portafolio.
                     </span>
                     <h2 className="text-4xl md:text-5xl font-serif text-stone-800 tracking-tight">
                         Historias que florecen

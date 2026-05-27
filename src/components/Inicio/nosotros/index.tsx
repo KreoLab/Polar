@@ -30,7 +30,7 @@ function InicioNosotros() {
 
                         <button className="group flex items-center gap-4 text-stone-400 hover:text-stone-800 transition-colors duration-300">
                             <span className="w-8 h-[1px] bg-stone-300 group-hover:w-12 group-hover:bg-stone-800 transition-all"></span>
-                            <span className="uppercase tracking-[0.2em] text-xs font-bold">Crea con nosotros</span>
+                            <span className="uppercase tracking-[0.2em] text-xs font-bold">Crea con nosotros.</span>
                         </button>
                     </div>
 

@@ -14,7 +14,7 @@ function InicioCita() {
 
                     {/* SUBTÍTULO */}
                     <p className="text-stone-500 font-light text-base md:text-lg lg:text-xl tracking-wide max-w-2xl mx-auto">
-                        Cuentanos tu idea y la hacemos realidad
+                        Cuéntanos tu idea y la hacemos realidad.
                     </p>
                 </div>
 

@@ -12,7 +12,7 @@ function ExperienciaNosotros() {
                     <div className="space-y-6 md:space-y-8 order-2 lg:order-1">
                         <div className="space-y-4">
                             <h2 className="text-4xl md:text-5xl lg:text-6xl font-serif text-stone-800 leading-tight tracking-tight">
-                                Mas que flores, una experiencia
+                                Más que flores, una experiencia
                             </h2>
                             <div className="w-16 h-[1px] bg-[#D9BDB2]"></div>
                         </div>

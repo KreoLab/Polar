@@ -5,9 +5,9 @@ function ContactoRedesSociales() {
     const redes = [
         {
             nombre: "Instagram",
-            usuario: "@polar_fs",
+            usuario: "@polarflowershop",
             icono: <Instagram size={40} strokeWidth={1} />,
-            link: "https://www.instagram.com/polar_fs?igsh=MWNvZ2FxM25pMDc2bw%3D%3D&utm_source=qr",
+            link: "https://www.instagram.com/polarflowershop/",
             colorHover: "group-hover:text-[#E1306C]"
         },
         {
